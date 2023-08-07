@@ -4,6 +4,7 @@ Description : Module with the solution to the FizzBuzz problem.
               The FizzBuzz problem involves returning a list where numbers that are multiples of 3 are replaced with "Fizz",
               numbers that are multiples of 5 are replaced with "Buzz", and if a number is a multiple of both, it's replaced with "FizzBuzz".
 Maintainer  : Shikitimiau
+Date: 07-08-2023
 -}
 
 module FizzBuzz where

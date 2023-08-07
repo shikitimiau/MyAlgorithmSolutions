@@ -5,7 +5,8 @@ This file solves the FizzBuzz problem, which consists of the following:
     If the number is divisible by 5, replace it with "Buzz".
     If the number is divisible by both 3 and 5, replace it with "FizzBuzz".
 
-:author: Shikitimiau
+:author: Shikitimiauç
+:date: 07-08-2023
 """
 
 def fizzbuzz(length):
